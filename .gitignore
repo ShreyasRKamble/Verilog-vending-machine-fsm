@@ -1,0 +1,10 @@
+db/
+incremental_db/
+output_files/
+work/
+*.bak
+*.mti
+*.mpf
+transcript
+*.wlf
+*.qws
