@@ -6,7 +6,7 @@ A Moore Finite State Machine (FSM) implementation of a vending machine using **V
 
 ## 📌 Project Overview
 
-This project demonstrates the implementation of a vending machine controller using a **Moore FSM**. The controller transitions through different states based on the inserted coins and generates output signals only from the current state.
+This project demonstrates the implementation of a vending machine controller using a **Mealy FSM**. The controller transitions through different states based on the inserted coins and generates output signals only from the current state.
 
 The design was developed as a digital design practice project to strengthen concepts such as:
 
