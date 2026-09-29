@@ -65,7 +65,7 @@ Verilog-vending-machine-fsm
 
 ## 🧠 FSM Overview
 
-The vending machine is implemented as a **Moore Finite State Machine**, where outputs depend only on the current state.
+The vending machine is implemented as a **Mealy Finite State Machine**, where outputs depend only on the current state.
 
 The controller keeps track of the total amount inserted and moves between states accordingly. Once the required amount is collected:
 
